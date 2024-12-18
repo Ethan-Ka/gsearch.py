@@ -1,7 +1,12 @@
+
+
+
 # GSearch.py
 An Unofficial Google Search API with Python.
 
+**ABANDONED** 
 
+only kind of worked anyways
 
 
 
